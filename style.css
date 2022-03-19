@@ -437,7 +437,7 @@ body{
 }
 
 /*these codes will only execute when the screen size will be 700px*/
-@media(max-width: 700px){
+@media(max-width: 500px){
 	#responsive_menu{
 	   display: block;
     }
@@ -510,7 +510,7 @@ body{
 }
 
 /* & these codes will execute when the screen size will be 500px*/
-@media(max-width: 500px){
+@media(max-width: 300px){
     #song_desc p:nth-child(1){
     	font-size: 0.9em;
     }
